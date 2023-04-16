@@ -28,6 +28,6 @@ The Material 3-Based Android Application will be built using the following techn
 * Volley: An HTTP library that makes networking for Android apps easier and faster.
 * QRGen: A QR code generation library for Java.
 
-###W Conclusion
+### Conclusion
 
 The Material 3-Based Android Application will offer a modern and intuitive user interface, with a focus on simplicity, consistency, and accessibility. The app's features will include user `authentication`, `sharing`, notifications, `Volley Animations`, and `QR Code generation`. The technology stack will include `Java`, `Android Studio`, `Material Design Components`, `Volley`, and `QRGen`.
